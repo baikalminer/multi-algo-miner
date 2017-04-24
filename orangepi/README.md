@@ -1,5 +1,5 @@
 
-Baikal Mini, Baikal Giant<BR>
+<LI>Baikal Mini, Baikal Giant</LI><BR>
   OrangePI One<BR>
   google : https://drive.google.com/open?id=0B1GBwN5-i39VZjJsSjdVLUh2Qkk<BR>
   baidu  : http://pan.baidu.com/s/1qY4jYd2<BR> 
